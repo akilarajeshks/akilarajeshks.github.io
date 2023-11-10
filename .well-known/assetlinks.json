@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.matrix.tmtrxapplication",
+    "sha256_cert_fingerprints":
+    ["B9:B3:75:99:60:39:FF:A8:25:86:1B:52:06:8B:9D:F1:7B:44:69:28:02:4F:00:18:34:57:C1:1E:B6:B5:57:01"]
+  }
+}]
